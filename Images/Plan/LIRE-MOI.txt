@@ -1,0 +1,33 @@
+─────────────────────────────────────────────────────
+  PLAN INTERACTIF DU DOMAINE — Image aquarelle
+─────────────────────────────────────────────────────
+
+Placez ici votre image du plan aquarelle du Domaine
+de la Grangette et nommez-la exactement :
+
+  → plan-domaine.jpg
+
+Formats acceptés : JPG, JPEG, PNG (dans ce cas,
+renommez en plan-domaine.jpg ou mettez à jour
+le HTML en conséquence)
+
+Taille recommandée : 1200 × 900 px minimum
+(image paysage, ratio ~4:3)
+
+─────────────────────────────────────────────────────
+
+Les 7 points interactifs positionnés sur le plan :
+
+  1 → Entrée principale     (left: 18%, top: 85%)
+  2 → Parking               (left: 12%, top: 70%)
+  3 → Salle de réception    (left: 52%, top: 48%)
+  4 → Accueil / Propriétaire (left: 30%, top: 38%)
+  5 → Glamping & Tipis      (left: 72%, top: 58%)
+  6 → Gîtes & Chambres      (left: 65%, top: 30%)
+  7 → Piscine               (left: 50%, top: 18%)
+
+Si les positions ne correspondent pas exactement
+à votre image, ajustez les % dans le fichier
+SITE OFFICIEL.html (recherchez "plan-point").
+
+─────────────────────────────────────────────────────
